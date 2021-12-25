@@ -16,6 +16,7 @@
 
 - 🌱 I’m currently learning DSA and backend.
 - 🤔 I’m looking for help with DSA and Web Dev.
+- 👨‍💻 Check out my personal portfolio : [Portfolio](https://mayankesh239.github.io/my_portfolio/)
 - 💬 Ask me about C++, Java, Python, Web Dev .
 - 📫 How to reach me: 📧[Linkedin](https://www.linkedin.com/in/mayankesh-jha-15446b206), 📧[Mail](mailto:mayankesh.ss@gmailcom)
 - 😄 Pronouns: He/Him
@@ -39,9 +40,12 @@
 ---
 
 <a href="https://github.com/mayankesh239">
-   <img align="center" src="https://github-readme-stats.vercel.app/api?username=mayankesh239&show_icons=true&theme=gotham&line_height=27" alt="Mayankesh's github stats"/>
+   <img align="left" src="https://github-readme-stats.vercel.app/api?username=mayankesh239&show_icons=true&theme=gotham&line_height=27" alt="Mayankesh's github stats"/>
 </a>
 <br/>
 <a href="https://github.com/mayankesh239">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mayankesh239&theme=gotham&hide_langs_below=1" />
+  <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mayankesh239&theme=gotham" />
 </a>
+<div align="center">
+  <p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=mayankesh239&theme=gotham" alt="mayankesh239" /></p>
+</div>
