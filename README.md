@@ -1,5 +1,5 @@
 ## Hola, I'm [Mayankesh Jha!](https://www.linkedin.com/in/mayankesh-jha-15446b206/) 👋
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=mayankesh239&label=Views&color=blue&style=plastic" alt="mayankesh239" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=mayankesh239&label=Views&color=green&style=plastic" alt="mayankesh239" /> </p>
 <a href="https://www.linkedin.com/in/mayankesh-jha-15446b206/">
   <img align="left" alt="Mayankesh's Linkdein" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
