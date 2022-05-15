@@ -14,8 +14,8 @@
 
      
 
-- 🌱 I’m currently learning DSA and backend.
-- 🤔 I’m looking for help with DSA and Web Dev.
+- 🌱 I’m currently learning DSA and Android Development.
+- 🤔 I’m looking for help with DSA and App development.
 - 👨‍💻 Check out my personal portfolio : [Portfolio](https://mayankesh239.github.io/my_portfolio/)
 - 💬 Ask me about C++, Java, Python, Web Dev .
 - 📫 How to reach me: 📧[Linkedin](https://www.linkedin.com/in/mayankesh-jha-15446b206), 📧[Mail](mailto:mayankesh.ss@gmailcom)
