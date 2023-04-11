@@ -39,13 +39,13 @@
 <br/>
 ---
 
-<a href="https://github.com/mayankesh239">
+<!-- <a href="https://github.com/mayankesh239">
    <img align="left" src="https://github-readme-stats.vercel.app/api?username=mayankesh239&show_icons=true&theme=gotham&line_height=27" alt="Mayankesh's github stats"/>
 </a>
 <br/>
 <a href="https://github.com/mayankesh239">
   <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mayankesh239&theme=gotham" />
-</a>
+</a> -->
 <div align="center">
   <p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=mayankesh239&theme=gotham" alt="mayankesh239" /></p>
 </div>
